@@ -39,7 +39,7 @@ vehicle_allocation/
 #### Clone the repository (or create the directory structure manually):
 
 ```bash
-mkdir vehicle_allocation
+git clone https://github.com/samayunPathan/vehicle-allocation-system-FastAPI-MongoDB.git
 cd vehicle_allocation
 ```
 
